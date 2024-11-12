@@ -1,3 +1,5 @@
-/cmake-build-debug
+# Ignore CLion build directory
+/cmake-build-debug/
 
-/.idea
+# Ignore CLion IDE files
+/.idea/
