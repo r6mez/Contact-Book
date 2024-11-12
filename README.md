@@ -1,6 +1,8 @@
 # Contact-Book
 A comprehensive console-based application for managing contact information.
 
+This project was developed as part of the 2024 Data Structures course at Zagazig University, it leverages a custom-built dynamic array data structure, showcasing a range of object-oriented programming (OOP) principles. This project provided a valuable hands-on experience with data structure design, algorithm efficiency, and OOP concepts, allowing for both learning and practical application of these key software engineering skills.
+
 ## Project UML
 ![](Images/ContactBookUML2.png)
 
@@ -83,7 +85,5 @@ The file looks like this:
 ![](Images/15.png)
 
 ***
-
-This project was a task for the data structure course 2024 at Zagazig University, Was a good opportunity to learn.
 
 ##### Thank you for caring ✨🪐
