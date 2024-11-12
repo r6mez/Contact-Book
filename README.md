@@ -2,7 +2,7 @@
 A comprehensive console-based application for managing contact information.
 
 ## Project UML
-![](Images/ContactBookUML.png)
+![](Images/ContactBookUML2.png)
 
 
 ## Project Details
